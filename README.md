@@ -44,4 +44,4 @@ After completing the quiz, the program will display your score and a message bas
 
 This Java quiz program is a simple educational tool and can be expanded or improved to include more features, such as a timer, a high-score system, or a wider range of questions. You can further develop and enhance the program to suit your educational needs.
 
-Enjoy the quiz and have fun learning Java!
+Enjoy the quiz and have fun learning Java!!
